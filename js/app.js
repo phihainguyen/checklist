@@ -21,6 +21,7 @@ function handleChecked(e) {
       }
     });
   }
+  //this variable allows us to have reference to the input variable for the last checked box
   lastChecked = this;
 }
 
